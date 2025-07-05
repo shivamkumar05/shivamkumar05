@@ -4,7 +4,8 @@
 🔭 Currently working on full-stack projects, blending seamless frontend experiences with robust backend systems.
 🌱 Always learning—currently sharpening my skills in advanced backend architectures and cloud-native development.
 🤝 Open to collaborating on open-source projects and innovative tech solutions.
-📫 Let’s connect and build something amazing!.<br><br>
+📫 Let’s connect and build something amazing!.
+<br><br>
 
 
 ## 🌐 Socials:
