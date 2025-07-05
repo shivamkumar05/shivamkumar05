@@ -1,5 +1,10 @@
 # 💫 About Me:
-I’m currently Studying in I.K.G.Punjab Technical University Mohali Campus-1<br>I’m looking to collaborate on Open Source Projects.<br>I’m currently learning Flutter, Java, Data Structure and Algo's.<br><br>
+🚀 Software Engineer with expertise in Flutter for cross-platform app development and Firebase/Supabase for backend solutions.
+💡 Passionate about building scalable and performant applications using Node.js, Express.js, NestJS, and MongoDB.
+🔭 Currently working on full-stack projects, blending seamless frontend experiences with robust backend systems.
+🌱 Always learning—currently sharpening my skills in advanced backend architectures and cloud-native development.
+🤝 Open to collaborating on open-source projects and innovative tech solutions.
+📫 Let’s connect and build something amazing!.<br><br>
 
 
 ## 🌐 Socials:
