@@ -1,11 +1,11 @@
 # 💫 About Me:
-🚀 Software Engineer with expertise in Flutter for cross-platform app development and Firebase/Supabase for backend solutions.
-💡 Passionate about building scalable and performant applications using Node.js, Express.js, NestJS, and MongoDB.
-🔭 Currently working on full-stack projects, blending seamless frontend experiences with robust backend systems.
-🌱 Always learning—currently sharpening my skills in advanced backend architectures and cloud-native development.
+🚀 Software Engineer with expertise in Flutter for cross-platform app development and Firebase/Supabase for backend solutions.<br>
+💡 Passionate about building scalable and performant applications using Node.js, Express.js, NestJS, and MongoDB.<br>
+🔭 Currently working on full-stack projects, blending seamless frontend experiences with robust backend systems.<br>
+🌱 Always learning—currently sharpening my skills in advanced backend architectures and cloud-native development.<br>
 🤝 Open to collaborating on open-source projects and innovative tech solutions.
 📫 Let’s connect and build something amazing!.
-<br><br>
+<br>
 
 
 ## 🌐 Socials:
